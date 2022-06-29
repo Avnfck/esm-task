@@ -7,3 +7,5 @@
 5. Open web app in browser - localhost:3000
   
 Enjoy :)
+
+Application to acquire data from website, put it info .csv file and then send .csv data to browser, where we can see details about products and parse additional data about them.
